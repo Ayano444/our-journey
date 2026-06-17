@@ -11,12 +11,12 @@ quotes: [
 ],
 
 media: [
-"/memories/favorites/sleepy/1.jpeg",
-"/memories/favorites/sleepy/2.jpeg",
-"/memories/favorites/sleepy/3.jpeg",
-"/memories/favorites/sleepy/4.jpeg",
-"/memories/favorites/sleepy/5.jpeg",
-"/memories/favorites/sleepy/6.jpeg",
+"/memories/Favorites/sleepy/1.jpeg",
+"/memories/Favorites/sleepy/2.jpeg",
+"/memories/Favorites/sleepy/3.jpeg",
+"/memories/Favorites/sleepy/4.jpeg",
+"/memories/Favorites/sleepy/5.jpeg",
+"/memories/Favorites/sleepy/6.jpeg",
 ],
 },
 
@@ -32,17 +32,17 @@ quotes: [
 ],
 
 media: [
-"/memories/favorites/eyes/1.jpeg",
-"/memories/favorites/eyes/2.jpeg",
-"/memories/favorites/eyes/3.jpeg",
-"/memories/favorites/eyes/4.jpeg",
-"/memories/favorites/eyes/5.jpeg",
-"/memories/favorites/eyes/eyes.mp4",
+"/memories/Favorites/eyes/1.jpeg",
+"/memories/Favorites/eyes/2.jpeg",
+"/memories/Favorites/eyes/3.jpeg",
+"/memories/Favorites/eyes/4.jpeg",
+"/memories/Favorites/eyes/5.jpeg",
+"/memories/Favorites/eyes/eyes.mp4",
 ],
 },
 
 {
-title: "my favourite kind of strange",
+title: "my Favourite kind of strange",
 
 quotes: [
 "you arrived in my life carrying a kind of chaos nobody teaches you how to keep.",
@@ -53,16 +53,16 @@ quotes: [
 ],
 
 media: [
-"/memories/favorites/weird/1.jpeg",
-"/memories/favorites/weird/2.jpeg",
-"/memories/favorites/weird/3.jpeg",
-"/memories/favorites/weird/4.jpeg",
-"/memories/favorites/weird/5.jpeg",
-"/memories/favorites/weird/6.jpeg",
-"/memories/favorites/weird/7.jpeg",
-"/memories/favorites/weird/8.jpeg",
-"/memories/favorites/weird/9.jpeg",
-"/memories/favorites/weird/10.jpeg",
+"/memories/Favorites/weird/1.jpeg",
+"/memories/Favorites/weird/2.jpeg",
+"/memories/Favorites/weird/3.jpeg",
+"/memories/Favorites/weird/4.jpeg",
+"/memories/Favorites/weird/5.jpeg",
+"/memories/Favorites/weird/6.jpeg",
+"/memories/Favorites/weird/7.jpeg",
+"/memories/Favorites/weird/8.jpeg",
+"/memories/Favorites/weird/9.jpeg",
+"/memories/Favorites/weird/10.jpeg",
 ],
 },
 
@@ -78,12 +78,12 @@ quotes: [
 ],
 
 media: [
-"/memories/favorites/bold/1.jpeg",
-"/memories/favorites/bold/3.jpeg",
-"/memories/favorites/bold/4.jpeg",
-"/memories/favorites/bold/5.jpeg",
-"/memories/favorites/bold/6.jpeg",
-"/memories/favorites/bold/7.png",
+"/memories/Favorites/bold/1.jpeg",
+"/memories/Favorites/bold/3.jpeg",
+"/memories/Favorites/bold/4.jpeg",
+"/memories/Favorites/bold/5.jpeg",
+"/memories/Favorites/bold/6.jpeg",
+"/memories/Favorites/bold/7.png",
 ],
 },
 
@@ -99,12 +99,12 @@ quotes: [
 ],
 
 media: [
-"/memories/favorites/cute/1.jpeg",
-"/memories/favorites/cute/2.jpeg",
-"/memories/favorites/cute/3.jpeg",
-"/memories/favorites/cute/4.jpeg",
-"/memories/favorites/cute/5.jpeg",
-"/memories/favorites/cute/6.jpeg",
+"/memories/Favorites/cute/1.jpeg",
+"/memories/Favorites/cute/2.jpeg",
+"/memories/Favorites/cute/3.jpeg",
+"/memories/Favorites/cute/4.jpeg",
+"/memories/Favorites/cute/5.jpeg",
+"/memories/Favorites/cute/6.jpeg",
 ],
 },
 
@@ -120,16 +120,16 @@ quotes: [
 ],
 
 media: [
-"/memories/favorites/personal/1.jpeg",
-"/memories/favorites/personal/2.jpeg",
-"/memories/favorites/personal/3.jpeg",
-"/memories/favorites/personal/4.jpeg",
-"/memories/favorites/personal/5.jpeg",
-"/memories/favorites/personal/6.jpeg",
-"/memories/favorites/personal/7.jpeg",
-"/memories/favorites/personal/8.jpeg",
-"/memories/favorites/personal/9.jpeg",
-"/memories/favorites/personal/10.jpeg",
+"/memories/Favorites/personal/1.jpeg",
+"/memories/Favorites/personal/2.jpeg",
+"/memories/Favorites/personal/3.jpeg",
+"/memories/Favorites/personal/4.jpeg",
+"/memories/Favorites/personal/5.jpeg",
+"/memories/Favorites/personal/6.jpeg",
+"/memories/Favorites/personal/7.jpeg",
+"/memories/Favorites/personal/8.jpeg",
+"/memories/Favorites/personal/9.jpeg",
+"/memories/Favorites/personal/10.jpeg",
 ],
 },
 ];
